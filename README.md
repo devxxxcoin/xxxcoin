@@ -1,7 +1,6 @@
 Xxxcoin Core integration/staging tree
 =====================================
 
-[![Build Status]
 
 (Website coming soon)
 What is Xxxcoin?
